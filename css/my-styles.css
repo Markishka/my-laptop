@@ -1,0 +1,19 @@
+.nav-link{
+    color: bisque !important;
+}
+.nav-link:hover{
+    color: indigo !important;
+    transition-duration: 0.4s ;
+}
+.btn-success:hover{
+    background-color: darkgray !important;
+    transition-duration: 0.4s;
+}
+.bd-placeholder-img{
+    font-size: 1.125rem;
+    text-anchor: middle;
+
+}
+html{
+    scroll-behavior: smooth;
+}
